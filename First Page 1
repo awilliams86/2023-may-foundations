@@ -1,5 +1,32 @@
 <!DOCTYPE html>
-<br>
+<html>
+    <head>
+        <title> My First Page</title>
+    </head>
+    <body>
+            <article>
+                <p>
+                    It was a sunny day in Jacksonville. The Itsy Bitsy Spider went up the water spout. 
+                    Then down came the rain and washed the spider out. Out came the sun and dried up all the rain.
+                    And the itsy bitsy spider went up the spout again.
+                </p>
+
+                <p>
+                    It was a sunny day in Jacksonville. The Itsy Bitsy Spider went up the water spout. 
+                    Then down came the rain and washed the spider out. Out came the sun and dried up all the rain.
+                    And the itsy bitsy spider went up the spout again.
+                            </p>
+                        </article>
+                        <p> You can search a lot of cool things on Google here: <a href="https://www.google.com">Google</a>. </p>
+                    </body>
+                    </html>
+
+
+
+
+
+
+
 <br>
 <article>
     <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel error omnis magnam asperiores quam ut corrupti provident explicabo distinctio fugiat dolores eum assumenda nobis consequuntur, doloremque praesentium soluta voluptate perferendis.
